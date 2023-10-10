@@ -1,0 +1,10 @@
+.card-para{
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+.my-card:hover{
+    scale: 1.1;
+    transition: 1s all ease;
+
+}
